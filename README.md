@@ -1,3 +1,8 @@
+# ⚠️ ARCHIVED PROJECT NOTICE
+This repository has been archived and is no longer maintained. 
+
+**Note on Live Demo:** The external API originally used to fetch data for this application has been deprecated/shut down. As a result, the live demo may no longer display live data or function as originally intended. 
+
 ### catwikiappchallenge-api
 
 The backend server for "catwikiappchallenge" project.
